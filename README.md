@@ -14,3 +14,6 @@ Deep learning+machine learning using tensorflow
 - Rao, G. S., Kumari, G. V., & Rao, B. P. (2019). Image Compression Using Neural Network for Biomedical Applications. In Soft Computing for Problem Solving (pp. 107-119). Springer, Singapore.
 - https://github.com/aymericdamien/TensorFlow-Examples/
 - Long Short Term Memory, Sepp Hochreiter & Jurgen Schmidhuber, Neural Computation 9(8): 1735-1780, 1997.
+- Generative adversarial nets. I Goodfellow, J Pouget-Abadie, M Mirza, B Xu, D Warde-Farley, S Ozair, Y. Bengio. Advances in neural information processing systems, 2672-2680.
+- Understanding the difficulty of training deep feedforward neural networks. X Glorot, Y Bengio. Aistats 9, 249-256
+- Generative Adversarial Networks Explained. Kevin Frans.
