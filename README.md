@@ -4,19 +4,33 @@ Deep learning+machine learning using tensorflow
 # List of key Models
 
 - Auto-Encoder
+
 - Bi-Directional Recurrent Neural Network
+
 - Convolutional Neural Network(CNN)
+
 - Deep Convolutional Generative Adversarial Network(DCGAN)
+
 - Generative Adversarial Network(GAN)
+
 - Gradient Boost
+
 - KNN(k-nearest neighbors)
+
 - K-means
+
 - Linear Regression
+
 - Logistic Regression
+
 - Multi-layer Perceptron
+
 - Random Forest
+
 - Recurrent Neural Network(RNN)
+
 - Variational Auto-Encoder
+
 - Word Embedding
 
 # Modules
