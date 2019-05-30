@@ -4,6 +4,10 @@ Deep learning+machine learning using tensorflow
 # List of key Models
 
 # Modules
+pandas<br>
+numpy<br>
+matplotlib <br>
+tensorflow<br>
 
 # References
 
@@ -14,6 +18,10 @@ Deep learning+machine learning using tensorflow
 - Rao, G. S., Kumari, G. V., & Rao, B. P. (2019). Image Compression Using Neural Network for Biomedical Applications. In Soft Computing for Problem Solving (pp. 107-119). Springer, Singapore.
 - https://github.com/aymericdamien/TensorFlow-Examples/
 - Long Short Term Memory, Sepp Hochreiter & Jurgen Schmidhuber, Neural Computation 9(8): 1735-1780, 1997.
+- Gradient-based learning applied to document recognition. Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. Proceedings of the IEEE, 86(11):2278-2324, November 1998.
+- Auto-Encoding Variational Bayes The International Conference on Learning Representations (ICLR), Banff, 2014. D.P. Kingma, M. Welling
+- Understanding the difficulty of training deep feedforward neural networks. X Glorot, Y Bengio. Aistats 9, 249-256
+- Variational Auto Encoder Explained. Kevin Frans.
 - Generative adversarial nets. I Goodfellow, J Pouget-Abadie, M Mirza, B Xu, D Warde-Farley, S Ozair, Y. Bengio. Advances in neural information processing systems, 2672-2680.
 - Understanding the difficulty of training deep feedforward neural networks. X Glorot, Y Bengio. Aistats 9, 249-256
 - Generative Adversarial Networks Explained. Kevin Frans.
