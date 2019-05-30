@@ -3,6 +3,22 @@ Deep learning+machine learning using tensorflow
 
 # List of key Models
 
+- Auto-Encoder
+- Bi-Directional Recurrent Neural Network
+- Convolutional Neural Network(CNN)
+- Deep Convolutional Generative Adversarial Network(DCGAN)
+- Generative Adversarial Network(GAN)
+- Gradient Boost
+- KNN(k-nearest neighbors)
+- K-means
+- Linear Regression
+- Logistic Regression
+- Multi-layer Perceptron
+- Random Forest
+- Recurrent Neural Network(RNN)
+- Variational Auto-Encoder
+- Word Embedding
+
 # Modules
 pandas<br>
 numpy<br>
@@ -28,3 +44,5 @@ tensorflow<br>
 - Unsupervised representation learning with deep convolutional generative adversarial networks. A Radford, L Metz, S Chintala, 2016.
 - Understanding the difficulty of training deep feedforward neural networks. X Glorot, Y Bengio. Aistats 9, 249-256
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. Sergey Ioffe, Christian Szegedy. 2015.
+
+**Special thanks to YouTube channels siraj raval,sentdex,Hvass Laboratories,3Blue1Brown and coding train.**
