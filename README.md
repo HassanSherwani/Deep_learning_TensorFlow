@@ -1,5 +1,5 @@
 # Deep_learning_TensorFlow
-Deep learning+machine learning using tensorflow
+Deep learning+machine learning using tensorflow. There are some concepts that are traditionally considered to be part of machine learning however; they are covered here as well to as build up.
 
 # Content
 
@@ -58,5 +58,6 @@ tensorflow<br>
 - Unsupervised representation learning with deep convolutional generative adversarial networks. A Radford, L Metz, S Chintala, 2016.
 - Understanding the difficulty of training deep feedforward neural networks. X Glorot, Y Bengio. Aistats 9, 249-256
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. Sergey Ioffe, Christian Szegedy. 2015.
+# Credit :
 
-**Special thanks to YouTube channels siraj raval,sentdex,Hvass Laboratories,3Blue1Brown and coding train.**
+Special thanks to YouTube channels siraj raval,sentdex,Hvass Laboratories,3Blue1Brown and coding train. They really opened new horizon in Deep Learning domain and made me love DL instead of fearing of neural networks.
