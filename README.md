@@ -25,13 +25,11 @@ Deep learning+machine learning using tensorflow. There are some concepts that ar
 
 - 11)-Random Forest
 
-
-- 14)-K-means
-
-
 - 12)-Recurrent Neural Network(RNN)
 
 - 13)-Variational Auto-Encoder
+
+- 14)-K-means
 
 - 15)-Word Embedding
 
