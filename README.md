@@ -34,10 +34,10 @@ Deep learning+machine learning using tensorflow. There are some concepts that ar
 - Word Embedding
 
 # Modules
-pandas<br>
-numpy<br>
-matplotlib <br>
-tensorflow<br>
+
+For processing: pandas , os , numpy, string. math<br>
+For text processing: nltk , spacy , gensim.<br>
+For Machine learning: scipy, librosa , , sklearn , tensorflow , matplotlib , seaborn , plotly , opencv , keras , pytorch.<br>
 
 # References
 
