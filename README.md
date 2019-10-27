@@ -5,39 +5,41 @@ Deep learning+machine learning using tensorflow. There are some concepts that ar
 
 - 1)-Auto-Encoder
 
-- Bi-Directional Recurrent Neural Network
+- 2)-Bi-Directional Recurrent Neural Network
 
-- Convolutional Neural Network(CNN)
+- 3)-Convolutional Neural Network(CNN)
 
-- Deep Convolutional Generative Adversarial Network(DCGAN)
+- 4)-Deep Convolutional Generative Adversarial Network(DCGAN)
 
-- Generative Adversarial Network(GAN)
+- 5)-Generative Adversarial Network(GAN)
 
-- Gradient Boost
+- 6)-Gradient Boost
 
-- KNN(k-nearest neighbors)
+- 7)-KNN(k-nearest neighbors)
 
-- K-means
+- 8)-Linear Regression
 
-- Linear Regression
+- 9)-Logistic Regression
 
-- Logistic Regression
+- 10)-Multi-layer Perceptron
 
-- Multi-layer Perceptron
+- 11)-Random Forest
 
-- Random Forest
 
-- Recurrent Neural Network(RNN)
+- 14)-K-means
 
-- Variational Auto-Encoder
 
-- Word Embedding
+- 12)-Recurrent Neural Network(RNN)
+
+- 13)-Variational Auto-Encoder
+
+- 15)-Word Embedding
 
 # Modules
 
 For processing: pandas , os , numpy, string. math<br>
 For text processing: nltk , spacy , gensim.<br>
-For Machine learning: scipy, librosa , , sklearn , tensorflow , matplotlib , seaborn , plotly , opencv , keras , pytorch.<br>
+For Machine learning: scipy , , sklearn , tensorflow , matplotlib , seaborn , plotly , opencv , keras.<br>
 
 # References
 
